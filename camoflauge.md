@@ -51,3 +51,21 @@ The main difference between background matching and disruptive coloration lies i
 2.  **Disruptive Coloration:**
     *   **Definition:** An animal uses bold, contrasting patterns (like stripes, spots, or blotches) that *break up* its body outline, making it difficult for a predator or prey to discern its true shape and boundaries. It doesn't aim for invisibility by blending in, but rather for confusion by making the animal's form hard to recognize as a single, coherent entity. The patterns often don't match the background but instead obscure the animal's shape.
     *   **Example:** A **zebra's** black and white stripes. While a single zebra might stand out, in a herd, the stripes make it incredibly difficult for a predator (like a lion) to pick out an individual or determine where one zebra begins and another ends, especially when the herd is moving. The stripes break up the contour of each animal.
+
+
+
+
+
+
+Countershading is a common form of camouflage where an animal has darker coloration on its upper side and lighter coloration on its underside.
+
+Here's how it works as a camouflage adaptation:
+
+1.  **Combating Self-Shadowing:** When light (typically from the sun or sky) hits an animal from above, it naturally illuminates the top surfaces brightly and casts shadows on the underside. If an animal were uniformly colored, this natural lighting would make its three-dimensional shape stand out, clearly distinguishing it from its background.
+2.  **Neutralizing the Effect:**
+    *   **Dark Top:** The darker dorsal (upper) side helps the animal blend in with the darker environment below it (e.g., the ocean floor when viewed from above, or shadows on the ground). It also absorbs more light, appearing less reflective.
+    *   **Light Bottom:** The lighter ventral (under) side helps counteract the natural shadowing. The light underside reflects more ambient light, making the shadowed area appear brighter than it would be on a uniformly colored animal. This effectively "flattens" the animal's appearance, making its underside blend with the brighter environment above it (e.g., the sky or the bright surface of the water when viewed from below).
+3.  **Overall Effect:** By having a dark top and a light bottom, countershading effectively neutralizes the visual cues of three-dimensionality that natural lighting creates. It makes the animal appear flatter, less distinct, and helps it blend seamlessly with its background, whether viewed from above or below. This makes it harder for predators or prey to detect its presence.
+
+One animal that uses countershading is a **shark**. Many species of sharks have dark backs (often gray or blue) that blend with the deeper, darker water when viewed from above, and white bellies that blend with the brighter surface water or sky when viewed from below.
+[
