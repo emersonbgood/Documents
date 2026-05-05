@@ -46,20 +46,32 @@ assume that those five belong to them.
 -- --
 
 ## we have now learned 
+
 # CARDINAL DIRECTIONS DISCOVERY:
+
 ## the following was something noticed about names:
+
 ### 1: SAM WESTING
+
 his name contains the direction "WEST"
+
 ### 2: BARNEY NORTHRUP
+
 his name contains the direction "NORTH"
+
 ### 3: JULIAN EASTMAN
+
 his name contains the direction "EAST"
+
 ### 4: SANDY MCSOUTHERS
+
 his name contains the direction "SOUTH"
 (note: SANDY MCSOUTHERS is the only of these four
 charactors who we have seen/heard from in this
 book so far)
+
 ## possible meaning:
+
 since SANDY MCSOUTHERS is the only one of these four
 in the book seen so far, we can assume that they either
 hate eachother or there is only one of them and they are
