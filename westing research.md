@@ -6,6 +6,7 @@ Brother Fruited Purple Waves
 For Sea His N On To Thee For
 Good Grace From Hood Spacious
 With Thy Beutiful Majesties"
+
 ## now we subtract the clues from the following verse of "America Thy Beutiful"
 
 ### "O beautiful for spacious skies,
