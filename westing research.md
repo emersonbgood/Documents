@@ -33,14 +33,18 @@ equils:
 ## now rearange the clues
 
 ### Ber Of Above The America Erica God And Crow
+
 becomes
+
 ### Berthe Erica Crow (Above America And God Of)
 since we don't yet have Madam Hoo & Jake Wexler's Clues,
 and we know that all of the other teams had a max of 
 five and a minimum of four clues, we know that there
 are five extra words, (Above America And God Of) we can
 assume that those five belong to them.
+
 -- --
+
 ## we have now learned 
 # CARDINAL DIRECTIONS DISCOVERY:
 ## the following was something noticed about names:
